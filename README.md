@@ -81,10 +81,6 @@ Check out the [Live Demo](https://docdirect.netlify.app/) of DocDirect.
 
 Check out the [Admin Dashboard](https://docdirect-admin.netlify.app/login) of DocDirect.
 
-## Video
-
- Watch a detailed [video walkthrough](https://youtu.be/dqVOCRSLpvM?si=fuxz9Ce6DNuboueo) of DocDirect to see all features in action.
-
 
 ## Technologies
 
@@ -125,6 +121,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or issues, feel free to contact me:
 
-- **Email:** gibrailzaidi@gmail.com
-- **GitHub:** [Gibrail404](https://github.com/Gibrail404)
+- **Email:** rockingnazif@gmail.com
+  
 
